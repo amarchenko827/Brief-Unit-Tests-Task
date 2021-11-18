@@ -1,0 +1,6 @@
+F:\VSProjects\Task1GemsDev\Task1GemsDevTests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+F:\VSProjects\Task1GemsDev\Task1GemsDevTests\obj\Debug\netcoreapp3.1\Task1GemsDevTests.csproj.AssemblyReference.cache
+F:\VSProjects\Task1GemsDev\Task1GemsDevTests\obj\Debug\netcoreapp3.1\Task1GemsDevTests.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\Task1GemsDev\Task1GemsDevTests\obj\Debug\netcoreapp3.1\Task1GemsDevTests.AssemblyInfoInputs.cache
+F:\VSProjects\Task1GemsDev\Task1GemsDevTests\obj\Debug\netcoreapp3.1\Task1GemsDevTests.AssemblyInfo.cs
+F:\VSProjects\Task1GemsDev\Task1GemsDevTests\obj\Debug\netcoreapp3.1\Task1GemsDevTests.csproj.CoreCompileInputs.cache
