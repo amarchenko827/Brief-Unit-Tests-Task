@@ -4967,11 +4967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VSProjects\\Task1GemsDev\\EquationsTests\\EquationsTests.csproj",
+      "projectUniqueName": "F:\\VSProjects\\C#\\Task1GemsDev\\EquationsTests\\EquationsTests.csproj",
       "projectName": "EquationsTests",
-      "projectPath": "F:\\VSProjects\\Task1GemsDev\\EquationsTests\\EquationsTests.csproj",
+      "projectPath": "F:\\VSProjects\\C#\\Task1GemsDev\\EquationsTests\\EquationsTests.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\VSProjects\\Task1GemsDev\\EquationsTests\\obj\\",
+      "outputPath": "F:\\VSProjects\\C#\\Task1GemsDev\\EquationsTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4992,8 +4992,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\VSProjects\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj": {
-              "projectPath": "F:\\VSProjects\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj"
+            "F:\\VSProjects\\C#\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj": {
+              "projectPath": "F:\\VSProjects\\C#\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj"
             }
           }
         }

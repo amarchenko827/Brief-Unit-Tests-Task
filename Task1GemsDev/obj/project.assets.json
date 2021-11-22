@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VSProjects\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj",
+      "projectUniqueName": "F:\\VSProjects\\C#\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj",
       "projectName": "Task1GemsDev",
-      "projectPath": "F:\\VSProjects\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj",
+      "projectPath": "F:\\VSProjects\\C#\\Task1GemsDev\\Task1GemsDev\\Task1GemsDev.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\VSProjects\\Task1GemsDev\\Task1GemsDev\\obj\\",
+      "outputPath": "F:\\VSProjects\\C#\\Task1GemsDev\\Task1GemsDev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

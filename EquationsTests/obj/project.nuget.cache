@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t1djLOzFm61WIVyfSSfrW3TwEIbv+x73QE6ONZC8tz5ryF3CuirO2AptSSEbh2/ovU08RD+7g5FGS8g9fpfm7w==",
+  "dgSpecHash": "DtPOwDSyQLF6kfFPN9j0yNKyKKKo1cOd2Viuu1iLRfnSvZA9w5p+xlvl1iw29isRY16ZLplwvOpiTuILT0QOrQ==",
   "success": true,
-  "projectFilePath": "F:\\VSProjects\\Task1GemsDev\\EquationsTests\\EquationsTests.csproj",
+  "projectFilePath": "F:\\VSProjects\\C#\\Task1GemsDev\\EquationsTests\\EquationsTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

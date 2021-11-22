@@ -12,3 +12,16 @@ F:\VSProjects\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.run
 F:\VSProjects\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.runtimeconfig.dev.json
 F:\VSProjects\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.genruntimeconfig.cache
 F:\VSProjects\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.csproj.AssemblyReference.cache
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.exe
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.deps.json
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.runtimeconfig.json
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.runtimeconfig.dev.json
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.dll
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\bin\Debug\netcoreapp3.1\Task1GemsDev.pdb
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.AssemblyInfoInputs.cache
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.AssemblyInfo.cs
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.csproj.CoreCompileInputs.cache
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.dll
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.pdb
+F:\VSProjects\C#\Task1GemsDev\Task1GemsDev\obj\Debug\netcoreapp3.1\Task1GemsDev.genruntimeconfig.cache
