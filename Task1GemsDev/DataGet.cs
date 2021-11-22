@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 namespace Task1GemsDev
 {
-    class DataGet : SquareEquations
+    public class DataGet : SquareEquations
     {
         public static void KeyboardEquation()
         {
@@ -18,7 +18,7 @@ namespace Task1GemsDev
         }
         public static void FileEquation()
         {
-            Console.WriteLine("Идёт чтение файла...\n");
+            Console.WriteLine("Идёт чтение файла...");
             var path = Directory.GetCurrentDirectory().Replace("\\bin\\Debug\\netcoreapp3.1", "\\Arguments.txt"); // делаем динамический путь, с помощью которого можно открыть программу на любом пк. Arguments.txt - файл с данными
             try
             {

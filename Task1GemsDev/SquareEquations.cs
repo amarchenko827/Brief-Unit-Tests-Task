@@ -12,7 +12,7 @@ namespace Task1GemsDev
 
             double x1, x2;
             var d = Math.Pow(b, 2) - 4 * a * c; // дискриминант
-            Console.WriteLine($"D = {d}\n");
+            Console.WriteLine($"D = {d}");
             if (d < 0)
                 Console.WriteLine($"В квадратном уравнении {a}x^2+{b}x+{c} нет корней\n");
             else if (d > 0)
